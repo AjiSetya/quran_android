@@ -23,8 +23,8 @@ how to help
 * share quran with your family and friends
 * make du3a for us
 
-open source?
-------------
+open source
+-----------
 while quran android is actively developed, it is (unfortunately) no longer open source. the reason for this comes back to people repeatedly breaking the rules and terms that we set for using quran android.
 
 over the years, we've seen several examples (and there are certainly several more that we haven't seen). we've seen people adding an ad above and below each and every quran page, we've seen people taking our graphics, and people adding malware and publishing malware infested quran android versions.
@@ -38,6 +38,8 @@ over the years, we've seen several examples (and there are certainly several mor
 3. it is theft - not just idea theft, but monetary theft. quran android costs money to host on a monthly basis (between images, audio files, etc). when someone reuses our code, keeps pointing to our servers, and adds ads to make money off of the app, this is theft.
 
 4. inability to get fixes and updates to other users - simply put, we can't know what these other people will do with the app in the future.
+
+5. security - with the recent report of a published apk of quran with built in malware, there are no guarantee of what these rogue apps will do to people's devices. while we can't stop a dedicated person from reverse engineering the app and still being malicious, we can at least make it a little bit more difficult for them to do so.
 
 contributors
 ------------
