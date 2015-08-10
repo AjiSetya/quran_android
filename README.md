@@ -33,7 +33,7 @@ over the years, we've seen several examples (and there are certainly several mor
 
 1. people republishing have typically done so to make money, and have almost always done so in a way that is not befitting of the book of Allah (example ad overlays while reading the Quran, etc).
 
-2. credibility - when others re-publish our apps, we can't trust what they wil do with the data. we saw one instance of an app where the developer took some of our graphics for a quran app, and also had a bible app in the store - how do we know that the quran app is accurate? if mistakes are found by the user in those apps, people will not use our app in the future, thinking it's the same app as that of this user.
+2. credibility - when others re-publish our apps, we can't trust what they will do with the data. we saw one instance of an app where the developer took some of our graphics for a quran app, and also had a bible app in the store - how do we know that the quran app is accurate? if mistakes are found by the user in those apps, people will not use our app in the future, thinking it's the same app as that of this user.
 
 3. it is theft - not just idea theft, but monetary theft. quran android costs money to host on a monthly basis (between images, audio files, etc). when someone reuses our code, keeps pointing to our servers, and adds ads to make money off of the app, this is theft.
 
